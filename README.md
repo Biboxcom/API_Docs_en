@@ -18,4 +18,12 @@ https://www.bibox.com
 * [Error code](https://github.com/Biboxcom/API_Docs_en/wiki/WS_error_code)
 * [Example](https://github.com/Biboxcom/WS-API-demos)
 
+### Contract
+
+### REST API
+* [API Reference](https://github.com/Biboxcom/API_Docs_en/wiki/REST_API_Reference_C)
+
+### WebSocket API
+* [API Reference](https://github.com/Biboxcom/API_Docs_en/wiki/WS_API_Reference_C)
+
 中文文档<a href='https://github.com/Biboxcom/API_Docs'>点击这里</a>
